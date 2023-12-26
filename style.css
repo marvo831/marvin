@@ -425,9 +425,9 @@ nav ul{
 	background: #080808;
 	position: fixed;
 	top: 0;
-	right: -150px;
+	right: -120px;
 	width: 150px;
-	height: 50vh;
+	height: 40vh;
 	padding-top: 50px;
 	z-index: 2;
 	transition: right 0.5s;
