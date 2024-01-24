@@ -15,7 +15,7 @@ body{
 #header{
 	width: 100%;
 	height: 105vh;
-	background-color: coral;
+	background: coral;
 	background-size: cover;
 	background-position: center;
 	
